@@ -1,0 +1,10 @@
+.navbar-custom {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.jumbotron {
+	height:100vh;
+	background: url('image/backNLP1.jpg');
+	background-size: 100% 100%;
+}
